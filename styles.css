@@ -1,0 +1,209 @@
+@font-face {
+    font-family: 'KGCornerOftheSky';
+    src: url('https://cdn.mimu.bot/assets/fonts/KGCorneroftheSky.eot'); /* IE9 Compat Modes */
+    src: url('https://cdn.mimu.bot/assets/fonts/KGCorneroftheSky.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('https://cdn.mimu.bot/assets/fonts/KGCorneroftheSky.woff') format('woff'), /* Modern Browsers */
+    url('https://cdn.mimu.bot/assets/fonts/KGCorneroftheSky.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('https://cdn.mimu.bot/assets/fonts/KGCorneroftheSky.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Sudsy';
+    src: url('https://cdn.mimu.bot/assets/fonts/Sudsy.eot'); /* IE9 Compat Modes */
+    src: url('https://cdn.mimu.bot/assets/fonts/Sudsy.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('https://cdn.mimu.bot/assets/fonts/Sudsy.woff') format('woff'), /* Modern Browsers */
+    url('https://cdn.mimu.bot/assets/fonts/Sudsy.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('https://cdn.mimu.bot/assets/fonts/Sudsy.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+
+html {
+    background: url('https://cdn.mimu.bot/assets/main_gridblocks.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+body {
+    margin: unset;
+    font-family: KGCornerOftheSky;
+    color: #88615d;
+    text-align: center;
+}
+.big_container {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.waving_mimu {
+    display: inline-block;
+    width: 120px;
+}
+.img_header {
+    display: inline-block;
+    min-width: 250px;
+    max-width: 500px;
+    width: 60%;
+}
+
+.inner_container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    min-width: 300px;
+    max-width: 800px;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.option_container {
+    width: 20%;
+    text-align: center;
+    min-width: 150px;
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;
+}
+
+.option_container {
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.option_container:hover {
+    transition: 0.3s ease;
+    cursor: pointer;
+}
+
+a {
+    all: unset;
+}
+
+.bunko:hover {
+    background-image: url("https://cdn.mimu.bot/assets/bunko_scribble2.png");
+}
+
+.kaeru:hover {
+    background-image: url("https://cdn.mimu.bot/assets/kaeru_scribble.png");
+}
+
+.mochi:hover {
+    background-image: url("https://cdn.mimu.bot/assets/mochi_scribble.png");
+}
+
+.bao:hover {
+    background-image: url("https://cdn.mimu.bot/assets/bao_scribble.png");
+}
+
+.koumori:hover {
+    background-image: url("https://cdn.mimu.bot/assets/koumori_scribble.png");
+}
+
+.option_image {
+    height: 150px;
+}
+
+.option_text {
+    display: block;
+    color: #669db2;
+}
+.option_container:hover .option_text {
+    color: #8ec8de;
+    transition: 0.1s ease;
+}
+
+@media only screen and (max-width: 600px) {
+    #mobile_bunko {
+        display: block;
+    }
+    #fs_bunko {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 601px) {
+    #mobile_bunko {
+        display: none;
+    }
+    #fs_bunko {
+        display: block;
+    }
+}
+
+.small_container {
+    opacity: 0.8;
+    border: solid 2px white;
+    border-radius: 30px;
+    background-color: #dbf2fc;
+    margin: 20px auto;
+    min-width: 280px;
+    max-width: 60%;
+    padding: 20px;
+    text-align: center;
+}
+
+.subheading {
+    width: 250px;
+}
+
+
+.inner_ack {
+    margin-top: 10px;
+    color: #c29f9b;
+    font-size: 12px;
+    flex-direction: column;
+}
+
+.special_thanks {
+    color: #9f7d7a;
+}
+
+.dedication {
+    font-size: 8px;
+}
+
+.person_name {
+    color: #b29491;
+}
+
+.person_name:hover {
+    color: #c2a4a1;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.avatar {
+    width: 80px;
+    border-radius: 50%;
+    border: solid 2px white;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 16px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    outline: white;
+    background-color: #dbb7b3;
+    border: solid 2px #dbb7b3;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #bfe3f2;
+    border-radius: 8px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #a5d3e6;
+}
