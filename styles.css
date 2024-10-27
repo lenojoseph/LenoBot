@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'KGCornerOftheSky';
-    src: url('https://github.com/lenojoseph/LenoBot/blob/main/KGCorneroftheSky.eot'); /* IE9 Compat Modes */
-    src: url('https://github.com/lenojoseph/LenoBot/blob/main/KGCorneroftheSky.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('https://github.com/lenojoseph/LenoBot/blob/main/KGCorneroftheSky.woff') format('woff'), /* Modern Browsers */
-    url('https://github.com/lenojoseph/LenoBot/blob/main/KGCorneroftheSky.ttf')  format('truetype'), /* Safari, Android, iOS */
-    url('https://github.com/lenojoseph/LenoBot/blob/main/KGCorneroftheSky.svg#svgFontName') format('svg'); /* Legacy iOS */
+    src: url('https://cdn.mimu.bot/assets/fonts/KGCorneroftheSky.eot'); /* IE9 Compat Modes */
+    src: url('https://cdn.mimu.bot/assets/fonts/KGCorneroftheSky.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('https://cdn.mimu.bot/assets/fonts/KGCorneroftheSky.woff') format('woff'), /* Modern Browsers */
+    url('https://cdn.mimu.bot/assets/fonts/KGCorneroftheSky.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('https://cdn.mimu.bot/assets/fonts/KGCorneroftheSky.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 
 @font-face {
@@ -15,7 +15,6 @@
     url('https://cdn.mimu.bot/assets/fonts/Sudsy.ttf')  format('truetype'), /* Safari, Android, iOS */
     url('https://cdn.mimu.bot/assets/fonts/Sudsy.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
-
 
 html {
     background: url('https://github.com/lenojoseph/LenoBot/blob/main/Leno_BG.jpg?raw=true') no-repeat center center fixed;
