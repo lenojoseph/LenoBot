@@ -1,19 +1,19 @@
 @font-face {
-    font-family: 'KGCorneroftheSkyW00-Regular';
-    src: url('https://github.com/lenojoseph/LenoBot/blob/main/KG%20Corner%20of%20the%20Sky%20W00%20Rg.eot'); /* IE9 Compat Modes */
-    src: url('https://github.com/lenojoseph/LenoBot/blob/main/KG%20Corner%20of%20the%20Sky%20W00%20Rg.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('https://github.com/lenojoseph/LenoBot/blob/main/KG%20Corner%20of%20the%20Sky%20W00%20Rg.woff') format('woff'), /* Modern Browsers */
-    url('https://github.com/lenojoseph/LenoBot/blob/main/KG%20Corner%20of%20the%20Sky%20W00%20Rg.ttf')  format('truetype'), /* Safari, Android, iOS */
-    url('https://github.com/lenojoseph/LenoBot/blob/main/KG%20Corner%20of%20the%20Sky%20W00%20Rg.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-family: 'KGCornerOftheSky';
+    src: url('https://cdn.mimu.bot/assets/fonts/KGCorneroftheSky.eot'); /* IE9 Compat Modes */
+    src: url('https://cdn.mimu.bot/assets/fonts/KGCorneroftheSky.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('https://cdn.mimu.bot/assets/fonts/KGCorneroftheSky.woff') format('woff'), /* Modern Browsers */
+    url('https://cdn.mimu.bot/assets/fonts/KGCorneroftheSky.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('https://cdn.mimu.bot/assets/fonts/KGCorneroftheSky.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 
 @font-face {
     font-family: 'Sudsy';
-    src: url('https://github.com/lenojoseph/LenoBot/blob/main/Sudsy.eot'); /* IE9 Compat Modes */
-    src: url('https://github.com/lenojoseph/LenoBot/blob/main/Sudsy.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('https://github.com/lenojoseph/LenoBot/blob/main/Sudsy.woff') format('woff'), /* Modern Browsers */
-    url('https://github.com/lenojoseph/LenoBot/blob/main/Sudsy.ttf')  format('truetype'), /* Safari, Android, iOS */
-    url('https://github.com/lenojoseph/LenoBot/blob/main/Sudsy.svg#svgFontName') format('svg'); /* Legacy iOS */
+    src: url('https://cdn.mimu.bot/assets/fonts/Sudsy.eot'); /* IE9 Compat Modes */
+    src: url('https://cdn.mimu.bot/assets/fonts/Sudsy.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('https://cdn.mimu.bot/assets/fonts/Sudsy.woff') format('woff'), /* Modern Browsers */
+    url('https://cdn.mimu.bot/assets/fonts/Sudsy.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('https://cdn.mimu.bot/assets/fonts/Sudsy.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 
 
