@@ -86,23 +86,23 @@ a {
 }
 
 .bunko:hover {
-    background-image: url("https://cdn.mimu.bot/assets/bunko_scribble2.png");
+    background-image: url("https://github.com/lenojoseph/LenoBot/blob/main/Support_BG.png?raw=true");
 }
 
 .kaeru:hover {
-    background-image: url("https://cdn.mimu.bot/assets/kaeru_scribble.png");
+    background-image: url("https://github.com/lenojoseph/LenoBot/blob/main/Status_BG.png?raw=true");
 }
 
 .mochi:hover {
-    background-image: url("https://cdn.mimu.bot/assets/mochi_scribble.png");
+    background-image: url("https://github.com/lenojoseph/LenoBot/blob/main/Command_BG.png?raw=true");
 }
 
 .bao:hover {
-    background-image: url("https://cdn.mimu.bot/assets/bao_scribble.png");
+    background-image: url("https://github.com/lenojoseph/LenoBot/blob/main/Sponsorship_BG.png?raw=true");
 }
 
 .koumori:hover {
-    background-image: url("https://cdn.mimu.bot/assets/koumori_scribble.png");
+    background-image: url("https://github.com/lenojoseph/LenoBot/blob/main/Invite_BG.png?raw=true");
 }
 
 .option_image {
