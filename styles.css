@@ -140,7 +140,7 @@ a {
     opacity: 0.8;
     border: solid 2px white;
     border-radius: 30px;
-    background-color: #FFE5B4;
+    background-color: #f7a79c;
     margin: 20px auto;
     min-width: 280px;
     max-width: 60%;
@@ -155,7 +155,7 @@ a {
 
 .inner_ack {
     margin-top: 10px;
-    color: #c29f9b;
+    color: #ffffff;
     font-size: 12px;
     flex-direction: column;
 }
@@ -169,11 +169,11 @@ a {
 }
 
 .person_name {
-    color: #b29491;
+    color: #ffffff;
 }
 
 .person_name:hover {
-    color: #c2a4a1;
+    color: #ffffff;
     cursor: pointer;
     transition: 0.3s ease;
 }
@@ -181,7 +181,7 @@ a {
 .avatar {
     width: 80px;
     border-radius: 50%;
-    border: solid 2px #906a66;
+    border: solid 2px #ffffff;
 }
 
 /* width */
